@@ -1,11 +1,13 @@
+<img src="/assets/pfp.jpg" width="200" align="right" /></a>
+
 # Matthew Choi
 ### Associate applied ML specialist - [Vector Institute](https://vectorinstitute.ai/)
 
 Hi I'm Matt! I'm currently working as an associate applied ML specialist at the Vector Institute in Toronto, Canada. I graduated with a BASc in Biomedical Mechanical Engineering and a BSc in Computing Technology from the University of Ottawa in 2020. 
 
-Although my university experience was rooted in applied mechanics, I've developed a thorough passion for machine learning. The root of which stems from the interesting combination of really quite elegant mathematical fields, including linear algebra, information theory, differential geometry, and so on. My current interests lie in within the broader context of deep learning and its constituents, namely optimization, computer vision/generative models, and graph neural networks. 
+Although my university experience was rooted in applied mechanics, I've developed a thorough passion for machine learning. The root of which stems from the interesting combination of elegant mathematical fields: linear algebra, information theory, differential geometry, and so on. My current interests lie in within the broader context of deep learning and its constituents - namely optimization, computer vision/generative models, and graph neural networks. 
 
-Although the majority of my interests lie in theory, I believe implementation is the best way to ensure that something learned also persists. Because of this, I've been able to explore many powerful frameworks in Python. I've developed a keen interest in [JAX](https://github.com/google/jax); though the majority of my experience is in [PyTorch](https://pytorch.org/). JAX feels so much closer to the underlying math, and the ability to distribute compute over a mesh is really cool! If you have any questions, feel free to reach out on either [Linkedin](https://www.linkedin.com/in/matthew-choi-bmed/) or via [email](mailto:matthew.choi@vectorinstitute.ai). If you just want to chat, that's fine too!
+The majority of my interests lie in theory, but I believe implementation is key to learning. Because of this, I've been able to explore many powerful frameworks in Python. I've developed a keen interest in [JAX](https://github.com/google/jax); though the majority of my experience is in [PyTorch](https://pytorch.org/). JAX feels so much closer to the underlying math, and the functional style is really fun! If you have any questions, feel free to reach out on either [Linkedin](https://www.linkedin.com/in/matthew-choi-bmed/) or via [email](mailto:matthew.choi@vectorinstitute.ai). If you just want to chat, that's fine too!
 
 ## Work Experience
 Dec. 2021 - Now: **Associate applied ML specialist** - Vector Institute, Toronto, Canada
