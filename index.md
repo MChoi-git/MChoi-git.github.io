@@ -1,3 +1,4 @@
+# Matthew Choi
 ### Associate applied ML specialist - [Vector Institute](https://vectorinstitute.ai/)
 
 Hi I'm Matt! I'm currently working as an associate applied ML specialist at the Vector Institute in Toronto, Canada. I graduated with a BASc in Biomedical Mechanical Engineering and a BSc in Computing Technology from the University of Ottawa in 2020. 
