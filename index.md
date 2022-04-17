@@ -1,4 +1,4 @@
-<img src="/assets/pfp.jpg" width="200" align="right" /></a>
+<img src="/assets/pfp.jpg" width="200" align="right" />
 
 # Matthew Choi
 ### Associate applied ML specialist - [Vector Institute](https://vectorinstitute.ai/)
