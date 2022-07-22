@@ -20,7 +20,7 @@ May - Aug. 2019: **Mechanical Engineering Intern** - TWD EPCM, Burlington, Canad
 ## Projects
 For a full list of personal projects, check out my [github](https://github.com/MChoi-git).
 
-[Distributed Language Modelling](https://github.com/MChoi-git/distributed-fun) - First steps into language modelling using new distributed techniques using both [PyTorch Distributed RPC](https://pytorch.org/docs/stable/rpc.html) and [JAX pjit](https://jax.readthedocs.io/en/latest/jax-101/08-pjit.html).
+[Distributed Language Modelling](https://github.com/MChoi-git/distributed-fun) - Language modelling with [Megatron-LM](https://arxiv.org/pdf/1909.08053.pdf) distributed techniques using both [PyTorch Distributed RPC](https://pytorch.org/docs/stable/rpc.html) and [JAX pjit](https://jax.readthedocs.io/en/latest/jax-101/08-pjit.html).
 
 [Graph Neural Networks in JAX](https://github.com/MChoi-git/graph_NNs_jax) - Exploratory project into various GNNs using JAX / [Flax](https://github.com/google/flax) / [j-raph](https://github.com/deepmind/jraph).
 
