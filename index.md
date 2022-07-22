@@ -20,7 +20,9 @@ May - Aug. 2019: **Mechanical Engineering Intern** - TWD EPCM, Burlington, Canad
 ## Projects
 For a full list of personal projects, check out my [github](https://github.com/MChoi-git).
 
-[Graph Neural Networks in JAX](https://github.com/MChoi-git/graph_NNs_jax) - Exploratory project into various GNNs using JAX / [Flax](https://github.com/google/flax) / [j-raph](https://github.com/deepmind/jraph) (in-progress).
+[Distributed Language Modelling](https://github.com/MChoi-git/distributed-fun) - First steps into language modelling using new distributed techniques using both [PyTorch Distributed RPC](https://pytorch.org/docs/stable/rpc.html) and [JAX pjit](https://jax.readthedocs.io/en/latest/jax-101/08-pjit.html).
+
+[Graph Neural Networks in JAX](https://github.com/MChoi-git/graph_NNs_jax) - Exploratory project into various GNNs using JAX / [Flax](https://github.com/google/flax) / [j-raph](https://github.com/deepmind/jraph).
 
 [Annealed Importance Sampling](https://github.com/MChoi-git/AIS-jax) - Reproduction of results from the AIS [paper](https://arxiv.org/abs/physics/9803008) by R. Neal (1998). Really interesting method for Monte-Carlo expectation approximation.  
 
