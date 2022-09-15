@@ -5,7 +5,7 @@
 
 Hi I'm Matt! I'm currently working as an associate applied ML specialist at the Vector Institute in Toronto, Canada. I graduated with a BASc in Biomedical Mechanical Engineering and a BSc in Computing Technology from the University of Ottawa in 2020. 
 
-Although my university experience was rooted in applied mechanics, I've developed a thorough passion for machine learning. I'm really interested in applying theory from linear algebra, information theory, differential geometry, and so on. My current interests are a combination of optimization, generative models, and large language models. 
+Although my university experience was rooted in applied mechanics, I've developed a thorough passion for machine learning. My current interests are a combination of optimization, distributed computing, and large language models. 
 
 If you have any questions, feel free to reach out on either [Linkedin](https://www.linkedin.com/in/matthew-choi-bmed/) or via [email](mailto:matthew.choi@vectorinstitute.ai). If you just want to chat, that's fine too!
 
