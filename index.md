@@ -1,24 +1,30 @@
 <img src="/assets/pfp.jpg" width="200" align="right" />
 
 # Matthew Choi
-### Associate applied ML specialist - [Vector Institute](https://vectorinstitute.ai/)
+### Applied ML specialist - [Vector Institute](https://vectorinstitute.ai/)
 
-Hi I'm Matt! I'm currently working as an associate applied ML specialist at the Vector Institute in Toronto, Canada. I graduated with a BASc in Biomedical Mechanical Engineering and a BSc in Computing Technology from the University of Ottawa in 2020. 
+Hi I'm Matt! I'm currently working as an applied ML specialist at the Vector Institute in Toronto, Canada. I graduated with a BASc in Biomedical Mechanical Engineering and a BSc in Computing Technology from the University of Ottawa in 2020. 
 
 Although my university experience was rooted in applied mechanics, I've developed a thorough passion for machine learning. My current interests are a combination of optimization, distributed computing, and large language models. 
 
 If you have any questions, feel free to reach out on either [Linkedin](https://www.linkedin.com/in/matthew-choi-bmed/) or via [email](mailto:matthew.choi@vectorinstitute.ai). If you just want to chat, that's fine too!
 
 ## Work Experience
-Dec. 2021 - Now: **Associate applied ML specialist** - Vector Institute, Toronto, Canada
+Mar. 2023 - Now: **Applied ML specialist** - Vector Institute, Toronto, Canada
+
+Dec. 2021 - Mar. 2023: **Associate applied ML specialist** - Vector Institute, Toronto, Canada
 
 Sept. - Dec. 2021: **Applied ML intern** - Vector Institute, Toronto, Canada
 
 May - Aug. 2019: **Mechanical Engineering Intern** - TWD EPCM, Burlington, Canada
 
+## Publications
+FlexModel (arxiv coming soon): A Framework for Interpretability of Distributed Large Language Models - [github](https://github.com/VectorInstitute/flex_model)
 
 ## Projects
 For a full list of personal projects, check out my [github](https://github.com/MChoi-git).
+
+[JAX LLM Scaling - Spring GTC 2023](https://www.nvidia.com/en-us/on-demand/session/gtcspring23-s51956/)
 
 [Distributed Language Modelling](https://github.com/MChoi-git/distributed-fun) - Language modelling with [Megatron-LM](https://arxiv.org/pdf/1909.08053.pdf) distributed techniques using both [PyTorch Distributed RPC](https://pytorch.org/docs/stable/rpc.html) and [JAX pjit](https://jax.readthedocs.io/en/latest/jax-101/08-pjit.html).
 
